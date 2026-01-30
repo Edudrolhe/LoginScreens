@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/eduardodrolhe/.gradle/daemon/8.2/com.example.loginscreens.app-merged_res-43:/drawable_bg_input_white_round.xml.flat",
+        "source": "/Users/eduardodrolhe/.gradle/daemon/8.2/com.example.loginscreens.app-main-45:/drawable/bg_input_white_round.xml"
+    },
+    {
+        "merged": "/Users/eduardodrolhe/.gradle/daemon/8.2/com.example.loginscreens.app-merged_res-43:/layout_fragment_login1.xml.flat",
+        "source": "/Users/eduardodrolhe/.gradle/daemon/8.2/com.example.loginscreens.app-main-45:/layout/fragment_login1.xml"
+    },
+    {
+        "merged": "/Users/eduardodrolhe/.gradle/daemon/8.2/com.example.loginscreens.app-merged_res-43:/drawable_bg_pink_gradient.xml.flat",
+        "source": "/Users/eduardodrolhe/.gradle/daemon/8.2/com.example.loginscreens.app-main-45:/drawable/bg_pink_gradient.xml"
+    },
+    {
+        "merged": "/Users/eduardodrolhe/.gradle/daemon/8.2/com.example.loginscreens.app-merged_res-43:/layout_activity_login_host.xml.flat",
+        "source": "/Users/eduardodrolhe/.gradle/daemon/8.2/com.example.loginscreens.app-main-45:/layout/activity_login_host.xml"
+    },
+    {
+        "merged": "/Users/eduardodrolhe/.gradle/daemon/8.2/com.example.loginscreens.app-merged_res-43:/layout_fragment_login2.xml.flat",
+        "source": "/Users/eduardodrolhe/.gradle/daemon/8.2/com.example.loginscreens.app-main-45:/layout/fragment_login2.xml"
+    },
+    {
+        "merged": "/Users/eduardodrolhe/.gradle/daemon/8.2/com.example.loginscreens.app-merged_res-43:/drawable_white_blob.xml.flat",
+        "source": "/Users/eduardodrolhe/.gradle/daemon/8.2/com.example.loginscreens.app-main-45:/drawable/white_blob.xml"
+    },
+    {
+        "merged": "/Users/eduardodrolhe/.gradle/daemon/8.2/com.example.loginscreens.app-merged_res-43:/layout_fragment_login3.xml.flat",
+        "source": "/Users/eduardodrolhe/.gradle/daemon/8.2/com.example.loginscreens.app-main-45:/layout/fragment_login3.xml"
+    },
+    {
+        "merged": "/Users/eduardodrolhe/.gradle/daemon/8.2/com.example.loginscreens.app-merged_res-43:/drawable_ic_user.xml.flat",
+        "source": "/Users/eduardodrolhe/.gradle/daemon/8.2/com.example.loginscreens.app-main-45:/drawable/ic_user.xml"
+    },
+    {
+        "merged": "/Users/eduardodrolhe/.gradle/daemon/8.2/com.example.loginscreens.app-merged_res-43:/navigation_nav_graph.xml.flat",
+        "source": "/Users/eduardodrolhe/.gradle/daemon/8.2/com.example.loginscreens.app-main-45:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/Users/eduardodrolhe/.gradle/daemon/8.2/com.example.loginscreens.app-merged_res-43:/drawable_ic_logo.xml.flat",
+        "source": "/Users/eduardodrolhe/.gradle/daemon/8.2/com.example.loginscreens.app-main-45:/drawable/ic_logo.xml"
+    },
+    {
+        "merged": "/Users/eduardodrolhe/.gradle/daemon/8.2/com.example.loginscreens.app-merged_res-43:/drawable_ic_lock.xml.flat",
+        "source": "/Users/eduardodrolhe/.gradle/daemon/8.2/com.example.loginscreens.app-main-45:/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "/Users/eduardodrolhe/.gradle/daemon/8.2/com.example.loginscreens.app-merged_res-43:/drawable_bg_button_round.xml.flat",
+        "source": "/Users/eduardodrolhe/.gradle/daemon/8.2/com.example.loginscreens.app-main-45:/drawable/bg_button_round.xml"
+    },
+    {
+        "merged": "com.example.loginscreens.app-merged_res-43:/layout_fragment_login1.xml.flat",
+        "source": "com.example.loginscreens.app-main-45:/layout/fragment_login1.xml"
+    }
+]

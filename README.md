@@ -1,9 +1,21 @@
-# LoginScreens (Java)
+# LoginScreens (Android • Java)
 
-Projeto Android Studio em **Java** com 1 Activity (Host) + 3 Fragments de login (inspirado no anexo).
+Projeto Android Studio em **Java** com **1 Activity (Host)** + **3 Fragments** (telas de login) usando **Material Components** e **Navigation Component**
 
-## Abrir
-- Abra a pasta **LoginScreens** no Android Studio.
-- Aguarde o Gradle Sync.
+---
 
-> Observação: os arquivos `gradlew` incluídos são placeholders. Se necessário, regenere o Gradle Wrapper pelo Android Studio.
+## ✨ Preview (O que o projeto entrega)
+
+- ✅ **Tela 1**: Login com **MaterialCardView (sombra)** + inputs com ícones (usuário/senha)
+- ✅ **Tela 2**: Login “clean” central com inputs outline e ícones brancos
+- ✅ **Tela 3**: Login com inputs **brancos arredondados** (estilo “pill”)
+- ✅ Navegação profissional com **Navigation Component**
+- ✅ **ViewBinding** habilitado (código mais limpo e seguro)
+- ✅ Drawables reutilizáveis (gradiente, bolhas, botões, inputs)
+
+- 👤 Autor
+Eduardo Drolhe
+
+
+---
+
